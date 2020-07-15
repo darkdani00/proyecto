@@ -10,7 +10,7 @@
                     <div class="profile-desc">
                         <div class="profile-pic">
                             <div class="count-indicator">
-                                <img class="img-xs rounded-circle " src="assets/images/faces/face15.jpg" alt="">
+                                <img class="img-xs rounded-circle " src="img/chino.JPG" alt="">
                                 <span class="count bg-success"></span>
                             </div>
                             <!-- division -->
