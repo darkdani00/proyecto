@@ -104,7 +104,9 @@
                                     <div class="flex-grow">
                                         <div class="d-flex d-md-block d-xl-flex justify-content-between">
                                             <h6 class="preview-subject">SantiLSD</h6>
-                                            <p class="text-muted text-small">From Germany <button type="button" class="btn btn-sm"><i class=" text-primary mdi mdi-account-plus"></i></button> </p>
+                                            <p class="text-muted text-small">From Germany <button type="button"
+                                                    class="btn btn-sm"><i
+                                                        class=" text-primary mdi mdi-account-plus"></i></button> </p>
                                         </div>
                                         <p class="text-muted">No le compren al <span style="color:green">@ElPiedroso</span> vende pura chingadera</p>
                                     </div>
@@ -118,9 +120,11 @@
                                     <div class="flex-grow">
                                         <div class="d-flex d-md-block d-xl-flex justify-content-between">
                                             <h6 class="preview-subject">DaniFocos</h6>
-                                            <p class="text-muted text-small">From UK <button type="button" class="btn btn-sm"><i class=" text-primary mdi mdi-account-plus"></i></button> </p>
+                                            <p class="text-muted text-small">From UK <button type="button"
+                                                    class="btn btn-sm"><i
+                                                        class=" text-primary mdi mdi-account-plus"></i></button> </p>
                                         </div>
-                                        <p class="text-muted">Hey! I can give you some cock xdxdd</p> 
+                                        <p class="text-muted">Hey! I can give you some cock xdxdd</p>
                                     </div>
                                 </div>
                             </div>
@@ -154,6 +158,53 @@
                 </div>
             </div>
             <!-- chat-->
+
+            <!-- Productos -->
+            <div class="col-md-12 col-xl-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex py-4">
+                            <div class="preview-list w-100">
+                                <div class="preview-item p-0">
+                                    <div class="preview-thumbnail">
+                                        <img src="img/seller.JPG" class="rounded-circle" alt="">
+                                    </div>
+                                    <div class="preview-item-content d-flex flex-grow">
+                                        <div class="flex-grow">
+                                            <div class="d-flex d-md-block d-xl-flex justify-content-between">
+                                                <h6 class="preview-subject">Leporino</h6>
+                                                <p class="text-muted text-small">4 Hours Ago</p>
+                                            </div>
+                                            <h3 class="text-muted"> New product to sell!!</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="text-center">
+                                        <img src="img/marihuana.JPG" alt="" width="80%" height="500">
+                                    </div>
+                                </div>
+                                <div>
+                                    <p>.</p>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <input type="text" class="form-control text-warning"
+                                                placeholder="Escribir comentario">
+                                        </div>
+                                        <div class="col-4">
+                                            <button type="button"
+                                                class="btn btn-success btn-rounded btn-fw">Enviar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Productos -->
 
         </div>
     </div>
