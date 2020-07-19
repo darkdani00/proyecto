@@ -21,22 +21,32 @@
             <ul class="navbar-nav navbar-nav-right">
                 <li class="nav-item dropdown d-none d-lg-block">
                     <a class="nav-link btn btn-success create-new-button" id="createbuttonDropdown"
-                        data-toggle="dropdown" aria-expanded="false" href="#">Nueva Compra</a>
+                        data-toggle="dropdown" aria-expanded="false" href="#"><i class="fas fa-shopping-cart"></i>
+                        <span>2</span>
+                    </a>
                     <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list"
                         aria-labelledby="createbuttonDropdown">
-                        <h6 class="p-3 mb-0">Compras</h6>
+                        <h6 class="p-3 mb-0">Carrito</h6>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item preview-item">
-                            <div class="preview-thumbnail">
-                                <div class="preview-icon bg-dark rounded-circle">
-                                    <i class="mdi mdi-web text-info"></i>
+                            <a class="dropdown-item preview-item">
+                                <div class="preview-thumbnail">
+                                    <img src="img/lsd.jpg" alt="image">
                                 </div>
-                            </div>
-                            <div class="preview-item-content">
-                                <p class="preview-subject ellipsis mb-1">Buscar Proveedor</p>
-                            </div>
-                        </a>
+                                <div class="preview-item-content">
+                                    <p class="preview-subject ellipsis mb-1"></p>Planilla LSD
+                                    <p class="text-muted mb-0"  style="font-size:15px">x10 </p>
+                                </div>
+                            </a>
                         <div class="dropdown-divider"></div>
+                            <a class="dropdown-item preview-item">
+                                <div class="preview-thumbnail">
+                                    <img src="img/lsd-gotero.jpg" alt="image">
+                                </div>
+                                <div class="preview-item-content">
+                                    <p class="preview-subject ellipsis mb-1"></p>Gotero LSD
+                                    <p class="text-muted mb-0"  style="font-size:15px">x1 </p>
+                                </div>
+                            </a>
 
                     </div>
                     <!-- Nueva Compra -->
@@ -51,6 +61,17 @@
                     <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list"
                         aria-labelledby="messageDropdown">
                         <h6 class="p-3 mb-0">Mensajes</h6>
+                        <div class="dropdown-divider"></div>
+                            <a class="dropdown-item preview-item">
+                                <div class="preview-thumbnail">
+                                    <img src="img/mr_yosie.jpg" alt="image" class="rounded-circle profile-pic">
+                                </div>
+                                <div class="preview-item-content">
+                                    <p class="preview-subject ellipsis mb-1">Barato el criko man $$$</p>
+                                    <p class="text-muted mb-0"> 20 Minutes ago </p>
+                                </div>
+                            </a>
+                    </div>
                 </li>
                 <!-- Mensajes -->
                 <!-- Notificaciones -->
@@ -63,6 +84,16 @@
                     <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list"
                         aria-labelledby="notificationDropdown">
                         <h6 class="p-3 mb-0">Notificaciones</h6>
+                        <div class="dropdown-divider"></div>
+                            <a class="dropdown-item preview-item">
+                                <div class="preview-thumbnail">
+                                    <img src="img/lsd-gotero.jpg" alt="image" class="rounded-circle profile-pic">
+                                </div>
+                                <div class="preview-item-content">
+                                    <p class="preview-subject ellipsis mb-1">Gotero LSD</p>
+                                    <p class=" mb-0" style="color:green"> 50% offer </p>
+                                </div>
+                            </a>
                     </div>
                 </li>
                 <!-- Notificaciones -->

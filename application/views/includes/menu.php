@@ -25,6 +25,16 @@
                 <li class="nav-item nav-category">
                     <span class="nav-link">Menu</span>
                 </li>
+                <!-- Home -->
+                <li class="nav-item menu-items">
+                    <a class="nav-link" href="<?=base_url('Home');?>">
+                        <span class="menu-icon">
+                            <i class="fas fa-home"></i>
+                        </span>
+                        <span class="menu-title">Home</span>
+                    </a>
+                </li>
+                <!-- Home -->
                 <!-- Inventario -->
                 <li class="nav-item menu-items">
                     <a class="nav-link" href="#">
@@ -55,6 +65,16 @@
                     </a>
                 </li>
                 <!-- Seguridad -->
+                <!-- Productos -->
+                <li class="nav-item menu-items">
+                    <a class="nav-link"  href="<?=base_url('Products');?>">
+                        <span class="menu-icon">
+                            <i class="fas fa-shopping-bag"></i>
+                        </span>
+                        <span class="menu-title"> Productos</span>
+                    </a>
+                </li>
+                <!-- Productos -->
 
             </ul>
         </nav>

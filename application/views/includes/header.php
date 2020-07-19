@@ -18,4 +18,25 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/chat.css">
     <!-- End layout styles -->
+    <!-- Font awesome -->
+    <link href="fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
+    <script defer src="fontawesome/js/all.js"></script> <!--load all styles -->
+
+    <style>
+    .dealer-img{
+        object-fit: cover;
+        object-position: center center;
+    }
+    .img-carrusel{
+        width: 100%;
+        height: 50vh;
+    }
+
+    .tamanio-img-card{
+        width: 220px;
+        height: 220px;
+        position: absolute;
+        bottom: 0;
+    }
+    </style>
 </head>
