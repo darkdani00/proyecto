@@ -33,10 +33,10 @@
     }
 
     .tamanio-img-card{
-        width: 220px;
-        height: 220px;
-        position: absolute;
-        bottom: 0;
+        width: 180px;
+        height: 180px;
+        /* position: absolute;
+        bottom: 0; */
     }
     </style>
 </head>

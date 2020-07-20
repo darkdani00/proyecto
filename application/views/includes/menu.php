@@ -47,7 +47,7 @@
                 <!-- Inventario -->
                 <!-- Proveedores -->
                 <li class="nav-item menu-items">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="<?=base_url('Provedor');?>">
                         <span class="menu-icon">
                             <i class="mdi mdi-contacts"></i>
                         </span>
@@ -57,7 +57,7 @@
                 <!-- Proveedores -->
                 <!-- seguridad -->
                 <li class="nav-item menu-items">
-                    <a class="nav-link" data-toggle="collapse" href="#" aria-expanded="false" aria-controls="auth">
+                    <a class="nav-link"  href="<?=base_url('Seguridad');?>">
                         <span class="menu-icon">
                             <i class="mdi mdi-security"></i>
                         </span>
